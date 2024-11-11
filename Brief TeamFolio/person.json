@@ -1,0 +1,28 @@
+{
+    "person" : [
+        {
+            "firstName" : "abdo",
+            "secondName" : "hadoui",
+            "age" : "20",
+            "genre" : "homme"
+        },
+        {
+            "firstName" : "khadija",
+            "secondName" : "ddd",
+            "age" : "19",
+            "genre" : "femme"
+        },
+        {
+            "firstName" : "abdelrahman",
+            "secondName" : "lahimidi",
+            "age" : "22",
+            "genre" : "homme"
+        },
+        {
+            "firstName" : "amal",
+            "secondName" : "dddaad",
+            "age" : "23",
+            "genre" : "femme"
+        }
+    ]
+}
